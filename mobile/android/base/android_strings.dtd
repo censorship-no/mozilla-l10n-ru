@@ -926,3 +926,20 @@ Picture-in-picture mini window -->
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Уведомления сайтов">
 <!ENTITY crash_handler_notifications_channel "Сообщения о падениях &brandShortName;">
+
+<!-- <CENO> -->
+<!-- "No Wi-Fi" dialog -->
+<!ENTITY ceno_wifi_disconnected_dialog_title "Уведомление браузера CENO">
+<!ENTITY ceno_wifi_disconnected_dialog_description "Рекомендуется использовать CENO через Wi-Fi, так как вы можете потратить больше трафика, чем думаете. Вы можете остановить CENO во время работы через мобильный интернет.">
+<!ENTITY ceno_wifi_disconnected_dialog_stop_now "Остановить CENO">
+<!ENTITY ceno_wifi_disconnected_dialog_continue "Продолжить">
+<!ENTITY ceno_wifi_disconnected_dialog_stop_showing "Не показывать снова">
+
+<!-- Service notification and actions -->
+<!ENTITY ceno_notification_title "Сервис браузера CENO">
+<!ENTITY ceno_notification_description "Нажмите, чтобы остановить">
+<!ENTITY ceno_notification_home_description "Главная">
+<!ENTITY ceno_notification_purge_description "Стереть&#9888;">
+<!ENTITY ceno_notification_purge_do_description "Да">
+<!ENTITY ceno_notification_channel_name "Сервис CENO">
+<!-- </CENO> -->
