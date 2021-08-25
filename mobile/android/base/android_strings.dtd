@@ -928,6 +928,14 @@ web sites through the HTML Notifications API. -->
 <!ENTITY crash_handler_notifications_channel "Сообщения о падениях &brandShortName;">
 
 <!-- <CENO> -->
+<!-- Home page browsing mode reminder. -->
+<!ENTITY ceno_home_mode_description "Обычные вкладки — делиться контентом с сетью CENO. Приватные — для страниц с авторизацией и тех, которыми вы не хотели бы делиться. Нажмите, чтобы узнать больше.">
+<!-- TRANSLATORS: Keep the URL as is unless the section has been translated. -->
+<!ENTITY ceno_mode_manual_link "https://censorship.no/user-manual/ru/concepts/public-private.html">
+
+<!-- Extra paragraph in private tab panel. -->
+<!ENTITY ceno_private_tab_panel_description "CENO не будет распространять содержимое приватных вкладок другим пользователям. Вы можете спокойно пользоваться сайтами, которые требуют входа. Для таких сайтов необходим прямой выход в интернет без цензуры.">
+
 <!-- "No Wi-Fi" dialog -->
 <!ENTITY ceno_wifi_disconnected_dialog_title "Уведомление браузера CENO">
 <!ENTITY ceno_wifi_disconnected_dialog_description "Рекомендуется использовать CENO через Wi-Fi, так как вы можете потратить больше трафика, чем думаете. Вы можете остановить CENO во время работы через мобильный интернет.">
