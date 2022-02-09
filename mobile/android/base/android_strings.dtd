@@ -929,7 +929,7 @@ web sites through the HTML Notifications API. -->
 
 <!-- <CENO> -->
 <!-- Home page browsing mode reminder. -->
-<!ENTITY ceno_home_mode_description "Обычные вкладки — делиться контентом с сетью CENO. Приватные — для страниц с авторизацией и тех, которыми вы не хотели бы делиться. Нажмите, чтобы узнать больше.">
+<!ENTITY ceno_home_mode_description "Обычные вкладки - делятся контентом с сетью CENO. Приватные — для страниц с авторизацией и тех, которыми вы не хотели бы делиться. Нажмите, чтобы узнать больше.">
 <!-- TRANSLATORS: Keep the URL as is unless the section has been translated. -->
 <!ENTITY ceno_mode_manual_link "https://censorship.no/user-manual/ru/concepts/public-private.html">
 
