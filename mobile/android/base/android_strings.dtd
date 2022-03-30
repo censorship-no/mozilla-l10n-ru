@@ -936,12 +936,12 @@ web sites through the HTML Notifications API. -->
 <!-- Extra paragraph in private tab panel. -->
 <!ENTITY ceno_private_tab_panel_description "CENO не будет распространять содержимое приватных вкладок другим пользователям. Вы можете спокойно пользоваться сайтами, которые требуют входа. Для таких сайтов необходим прямой выход в интернет без цензуры.">
 
-<!-- "No Wi-Fi" dialog -->
-<!ENTITY ceno_wifi_disconnected_dialog_title "Уведомление браузера CENO">
-<!ENTITY ceno_wifi_disconnected_dialog_description "Рекомендуется использовать CENO через Wi-Fi, так как вы можете потратить больше трафика, чем думаете. Вы можете остановить CENO во время работы через мобильный интернет.">
-<!ENTITY ceno_wifi_disconnected_dialog_stop_now "Остановить CENO">
-<!ENTITY ceno_wifi_disconnected_dialog_continue "Продолжить">
-<!ENTITY ceno_wifi_disconnected_dialog_stop_showing "Не показывать снова">
+<!-- "On mobile data" dialog -->
+<!ENTITY ceno_on_mobile_data_dialog_title "Уведомление браузера CENO">
+<!ENTITY ceno_on_mobile_data_dialog_description "Рекомендуется использовать CENO через Wi-Fi, так как вы можете потратить больше трафика, чем думаете. Вы можете остановить CENO во время работы через мобильный интернет.">
+<!ENTITY ceno_on_mobile_data_dialog_stop_now "Остановить CENO">
+<!ENTITY ceno_on_mobile_data_dialog_continue "Продолжить">
+<!ENTITY ceno_on_mobile_data_dialog_stop_showing "Не показывать снова">
 
 <!-- Service notification and actions -->
 <!ENTITY ceno_notification_title "Сервис браузера CENO">
